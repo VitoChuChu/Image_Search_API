@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.24077127.css","mappings":"AAAA,UAME,2BAA+B,CAH/B,WAAY,CAEZ,QAAS,CADT,SAAU,CAFV,UAKF","sources":["index.css"],"sourcesContent":["html,\r\nbody {\r\n  width: 100%;\r\n  height: 100%;\r\n  padding: 0;\r\n  margin: 0;\r\n  font-family: \"Play\", sans-serif;\r\n}\r\n"],"names":[],"sourceRoot":""}
